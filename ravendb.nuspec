@@ -18,12 +18,12 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>RavenDB4</id>
+    <id>RavenDB</id>
     <version>4.0.5</version>
     <packageSourceUrl>https://github.com/SaDa1337/RavenDb4Choco</packageSourceUrl>
     <owners>Maciej Sadowski</owners>
     <!-- ============================== -->
-    <title>RavenDb4</title>
+    <title>RavenDB</title>
     <authors>Hibernating Rhinos</authors>
     <projectUrl>https://ravendb.net</projectUrl>
     <iconUrl>https://ravendb.net/images/logo/ravendb_logo.png</iconUrl>
